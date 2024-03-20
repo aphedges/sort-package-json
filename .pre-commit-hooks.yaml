@@ -1,0 +1,7 @@
+-   id: sort-package-json
+    name: sort-package-json
+    description: 'Sort package.json based on the well-known package.json keys '
+    entry: sort-package-json
+    language: node
+    files: 'package\.json'
+    types: [json]
